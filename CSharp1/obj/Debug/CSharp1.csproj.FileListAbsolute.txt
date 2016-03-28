@@ -1,0 +1,9 @@
+c:\users\王小兵\documents\visual studio 2015\Projects\CSharp1\CSharp1\bin\Debug\CSharp1.exe.config
+c:\users\王小兵\documents\visual studio 2015\Projects\CSharp1\CSharp1\bin\Debug\CSharp1.exe
+c:\users\王小兵\documents\visual studio 2015\Projects\CSharp1\CSharp1\bin\Debug\CSharp1.pdb
+c:\users\王小兵\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.csprojResolveAssemblyReference.cache
+c:\users\王小兵\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.Form1.resources
+c:\users\王小兵\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.Properties.Resources.resources
+c:\users\王小兵\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.csproj.GenerateResource.Cache
+c:\users\王小兵\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.exe
+c:\users\王小兵\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.pdb
